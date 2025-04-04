@@ -1,0 +1,8 @@
+Create a folder in your local.
+
+Create a repo in your github
+Clone that repo in your vs code terminal - HTTPS - Command - git clone https://github.com/kishorefed/Cloud-ClassRoom.git
+
+To Create a file - Linux command - touch note.txt
+To delete a file - Linux command - rm -rf note.txt     (-r "recursive" -f "force" (suppress confirmation messages))
+
