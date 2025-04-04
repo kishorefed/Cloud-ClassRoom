@@ -6,3 +6,6 @@ Clone that repo in your vs code terminal - HTTPS - Command - git clone https://g
 To Create a file - Linux command - touch note.txt
 To delete a file - Linux command - rm -rf note.txt     (-r "recursive" -f "force" (suppress confirmation messages))
 
+To create a branch - git branch kumar
+To switch the branch - git checkout kumar
+
